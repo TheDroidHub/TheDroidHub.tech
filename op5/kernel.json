@@ -1,0 +1,26 @@
+[{
+  "kernel": "RenderZenith (EAS)",
+  "version": "R1-T7",
+  "date": "08/21",
+  "comp": "AOSP",
+  "link": "https://www.google.de"
+}, {
+  "rom": "LegendROM",
+  "version": "Beta",
+  "date": "07/19",
+  "base": "Lineage",
+  "link": "https://www.google.com"
+}, {
+
+  "rom": "OctOs Oct-N",
+  "version": "Beta",
+  "date": "07/29",
+  "base": "Lineage",
+  "link": "https://www.xda-developers.com"
+}, {
+  "rom": "PureXPERIence",
+  "version": "v1.0.0",
+  "date": "08/11",
+  "base": "OOS",
+  "link": "https://www.getmdl.io"
+}]

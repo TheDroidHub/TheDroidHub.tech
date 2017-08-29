@@ -1,0 +1,26 @@
+[{
+  "rom": "AospExtended",
+  "version": "4.5",
+  "date": "08/17",
+  "base": "AOSP",
+  "link": "https://www.google.de"
+}, {
+  "rom": "LegendROM",
+  "version": "Beta",
+  "date": "07/19",
+  "base": "Lineage",
+  "link": "https://www.google.com"
+}, {
+
+  "rom": "OctOs Oct-N",
+  "version": "Beta",
+  "date": "07/29",
+  "base": "Lineage",
+  "link": "https://www.xda-developers.com"
+}, {
+  "rom": "PureXPERIence",
+  "version": "v1.0.0",
+  "date": "08/11",
+  "base": "OOS",
+  "link": "https://www.getmdl.io"
+}]

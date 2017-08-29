@@ -1,0 +1,21 @@
+[{
+  "version": "4.6",
+  "date": "08/17",
+  "base": "AOSP",
+  "link": "https://forum.xda-developers.com/oneplus-5/development/rom-aospextended-rom-v4-5-t3657703"
+}, {
+  "version": "Beta",
+  "date": "07/19",
+  "base": "Lineage",
+  "link": "https://forum.xda-developers.com/oneplus-5/development/los-14-1-legendrom-t3633773"
+}, {
+  "version": "Beta",
+  "date": "07/29",
+  "base": "Lineage",
+  "link": "https://forum.xda-developers.com/oneplus-5/development/rom-team-octos-oct-n-t3637793"
+}, {
+  "version": "v1.0.0",
+  "date": "08/11",
+  "base": "OOS",
+  "link": "https://forum.xda-developers.com/oneplus-5/development/rom-purexperience-v1-0-0-t3654891"
+}]
